@@ -38,7 +38,7 @@ I’m a passionate **software developer** with experience in **AI, web developme
 ## 📫 Let’s Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TirthNaik-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tirthnaik)  
 [![Instagram](https://img.shields.io/badge/Instagram-tirth_naik-purple?style=flat&logo=instagram)](https://www.instagram.com/tirth_naik)  
-📧 **Email:** tirth.email@example.com  
+📧 **Email:** naik.ti@northeastern.edu 
 
 ---
 
