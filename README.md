@@ -26,9 +26,9 @@ I’m a passionate **software developer** with experience in **AI, web developme
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
 
 ## 🌱 Currently Learning  
-- 🔥 Advanced **AI models**  
-- 🔗 **Blockchain** technologies  
-- 📡 **Distributed Systems**  
+- 🔥 Advanced **AI models and LLMs**  
+- 🔗 **Backend Services in Java Framework** technologies  
+- 📡 **Cloud Technologies and Data Structures**  
 
 ## 📌 Beyond Coding  
 - 🍳 **Cooking Enthusiast**—Love experimenting with different cuisines.  
