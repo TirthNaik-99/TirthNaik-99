@@ -40,6 +40,7 @@ I’m a passionate **software developer** with experience in **AI, web developme
 [![Instagram](https://img.shields.io/badge/Instagram-tirth_naik-purple?style=flat&logo=instagram)](https://www.instagram.com/tirth_naik)  
 📧 **Email:** naik.ti@northeastern.edu 
 
+
 ---
 
 🚀 *Always open to new opportunities, collaborations, and learning experiences!*  
